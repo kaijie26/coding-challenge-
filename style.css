@@ -1,0 +1,96 @@
+body{
+  background-image: url(background.jpg);
+  background-size: auto;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: lightgray
+
+}
+
+.contenitore{
+
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 1000px;
+  height: 675px;
+  margin: auto;
+  border-radius: 20px
+
+}
+
+.posizione-logo, .logo{
+  width: 200px;
+}
+
+.posizione-logo{
+  margin: auto;
+
+}
+
+.logo{
+  margin-top: 100px
+
+}
+
+
+#titolo{
+  font-size: 30px;
+  text-align: center;
+  color: #00FF00;
+
+}
+
+
+.funzioni{
+  background-color: #00FF00;
+  padding: 5px;
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px
+
+
+
+}
+
+
+button{
+  font-size: 10px
+}
+
+.formattazione{
+  margin-left: 100px;
+  margin-top: 25px
+}
+
+#nome-monopattino{
+  font-size: 20px;
+  color: white
+}
+
+.carica-gino, .carica-mike, .carica-fede{
+  padding: 3px;
+  border-radius: 5px;
+  height: 20px
+
+}
+
+
+.carica-gino {
+  background-color: orange;
+  width: 275px;
+
+}
+
+
+.carica-mike{
+  background-color: green;
+  width: 475px;
+
+}
+
+
+
+.carica-fede {
+  background-color: red;
+  width: 100px;
+
+}
